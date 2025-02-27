@@ -1,3 +1,6 @@
+server:
+  port: 1002
+
 spring:
   datasource:
     url: "{cipher}b730423baae34b7289581e61e184d13f1c003d8733f5507f3a69256b8e2dc299c5addc359b670403a21e1b2d046d64e2921bfcb098210e078bcabe304e42cff9"
