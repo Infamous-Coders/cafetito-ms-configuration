@@ -2,7 +2,7 @@ server:
   port: 8085
 spring:
   datasource:
-    url: "{cipher}0030da385f784de46b4bc7b84aa52cd12aa73027df8f5e4b714e9c1e8541b22983c80adc37a966105fdc77bb055204243e8054a427eb781a847bf2874cb71e76was"
+    url: "{cipher}0030da385f784de46b4bc7b84aa52cd12aa73027df8f5e4b714e9c1e8541b22983c80adc37a966105fdc77bb055204243e8054a427eb781a847bf2874cb71e76"
     username: "{cipher}31c7e8bf19a2e188eef565897b95cb87bbfb6ec012db19bbdc5ddecdea61f8b4"
     password: "{cipher}0fe3a3e55d029fa417c0e53be4a6230e5d5284f7c6e22752ab36db4ed48cf2ce"
   jpa:
