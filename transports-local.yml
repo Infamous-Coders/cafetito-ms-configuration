@@ -1,0 +1,9 @@
+server:
+  port: 8085
+spring:
+  datasource:
+    url: "{cipher}a721c1c018e7b268429a572af64fdf29eb96ca0e6297187f4d8ddb9422ade37679f03ad410df7fb9c1ba67c9bd4eaef173d1afaf102406652d1f3b1e68e8195c42eac1bcdab3606a0dbd2a898d1e61a1"
+    username: "{cipher}31c7e8bf19a2e188eef565897b95cb87bbfb6ec012db19bbdc5ddecdea61f8b4"
+    password: "{cipher}0fe3a3e55d029fa417c0e53be4a6230e5d5284f7c6e22752ab36db4ed48cf2ce"
+  jpa:
+    show-sql: true
