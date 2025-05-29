@@ -1,0 +1,7 @@
+spring:
+  datasource:
+    url: "{cipher}01ba1f37a56a39e80e55c0f38965dd2947dd5dc4e260beffeb31ee31ef0d39b41b8f014cb5c17fc8774898c99c93bfe2d9ccc1a1fb1b940df04e4a9f59c3e8df8bb7e5cd2b63840fb9cf9cd8bc0d60b7"
+    username: "{cipher}4857ca86bcba22b01de7b8def4a5a32e787d944458e9ddc519313bc7fb6cbe42"
+    password: "{cipher}e79ac98fe4a7cef9b1b4116ff421e145af172ce0bf605f57705db40b81ff78e2"
+  jpa:
+    show-sql: true
